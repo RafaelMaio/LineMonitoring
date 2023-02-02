@@ -7,7 +7,7 @@ MRTK application for the Microsoft HoloLens 2 for supporting the monitorization 
  - Unity 2021.3.9f1
  - MRTK 2.8.2
  
- ### Use the project/application:
+ ### Use the project:
  1. Open the project folder in a compatible Unity version.
  2. Build the application. Build settings:
     - Choose UWP;
@@ -19,3 +19,8 @@ MRTK application for the Microsoft HoloLens 2 for supporting the monitorization 
  3. Open the file with ".sln" extension in the build folder created.
  4. In the top menu, choose "Realease" and "ARM64"
  5. Run to the device with cable or remotely via wi-fi.
+
+## Aplication usage:
+1. Select the assembly line number.
+2. Configure the stations constituing the assembly line.
+3. Perform the real-time data monitorization of the corresponding stations.
